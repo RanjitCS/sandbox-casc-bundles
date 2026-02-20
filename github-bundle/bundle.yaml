@@ -1,9 +1,7 @@
 id: "github-bundle"
-version: "4"
+version: "5"
 apiVersion: "1"
 jcasc:
   - "jenkins.yaml"
-items:
-  - "items.yaml"
 plugins:
   - "plugins.yaml"
