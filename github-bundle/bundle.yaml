@@ -1,5 +1,5 @@
 id: "github-bundle"
-version: "12"
+version: "13"
 apiVersion: "1"
 jcasc:
   - "jenkins.yaml"
