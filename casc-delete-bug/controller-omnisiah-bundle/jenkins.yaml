@@ -1,0 +1,4 @@
+jenkins:
+  systemMessage: "Controller Gamma - Managed by CasC"
+  numExecutors: 2
+  mode: NORMAL

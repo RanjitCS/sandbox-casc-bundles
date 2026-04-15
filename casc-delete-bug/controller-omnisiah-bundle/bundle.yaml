@@ -1,0 +1,8 @@
+apiVersion: "1"
+id: "controller-gamma-bundle"
+version: "1"
+description: "Bundle for Controller Gamma"
+jcasc:
+  - "jenkins.yaml"
+plugins:
+  - "plugins.yaml"

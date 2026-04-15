@@ -1,0 +1,6 @@
+removeStrategy:
+  items: "none"
+  rbac: "sync"
+
+# All controllers removed - this file triggers the bug when it replaces items.yaml
+items: []
