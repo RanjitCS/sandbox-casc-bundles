@@ -1,8 +1,6 @@
 apiVersion: "1"
-id: "controller-beta-bundle"
+id: "controller-beta"
 version: "1"
 description: "Bundle for Controller Beta"
 jcasc:
   - "jenkins.yaml"
-plugins:
-  - "plugins.yaml"

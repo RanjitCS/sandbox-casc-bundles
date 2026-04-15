@@ -1,4 +1,0 @@
-plugins:
-  - id: cloudbees-casc-server
-  - id: cloudbees-casc-items-server
-  - id: operations-center-server
